@@ -11,3 +11,14 @@ We are committed to doing the right thing for the environment, which is why we p
 Stakeholders help keep Solana decentralized. By investing in independently owned and operated pools, they prevent corporate takeover and giant clusters from forming in the same datacenter.
 
 This keeps Solana distributed, fair, and unbiased.
+
+### Blazingly Fast 🧨
+Pumpkin's pool is powered by the latest servers with Intel Gold CPUs, DDR4 memory, and several terabytes of SSD storage.
+
+### Solid Returns 🪙
+With a competitive commission of only **10%**, stakeholders acquire **90%** of staked earnings.
+
+Commission not only covers operating costs, but is invested directly back into the pool's infrastucture. A percentage of all profits are used to procure additional solar energy shares.
+
+### Links 🔗
+- [Pumpkin's Pool on Validators.app](https://www.validators.app/validators/4cheZ7QmWigAXpbZog7SMeXBXLHgKG2U8aGGJ8ba772y?locale=en&network=mainnet&order=&refresh=)
