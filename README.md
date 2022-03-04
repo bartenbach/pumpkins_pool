@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Hey there! 👋
 
-You can use the [editor on GitHub](https://github.com/bartenbach/pumpkins_pool/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Pumpkin's Pool is a solar-powered, independently owned & operated Solana stake pool.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Clean Energy
+We are committed to doing the right thing for the environment, which is why we participate in the [Community Solar program](https://pubdisplay.alsoenergy.com/kiosk/18014398509527082?dashkey=2a5669734965576e4a43513d3d&tag=4246267).
 
-### Markdown
+**5%** of all profits go directly towards clean energy.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Decentralized
+Stakeholders help keep Solana decentralized. By investing in independently owned and operated pools, they prevent corporate takeover and giant clusters from forming in the same datacenter.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bartenbach/pumpkins_pool/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This keeps Solana distributed, fair, and unbiased.
