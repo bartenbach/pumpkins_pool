@@ -22,3 +22,7 @@ Commission not only covers operating costs, but is invested directly back into t
 
 ### Links 🔗
 - [Pumpkin's Pool on Validators.app](https://www.validators.app/validators/4cheZ7QmWigAXpbZog7SMeXBXLHgKG2U8aGGJ8ba772y?locale=en&network=mainnet&order=&refresh=)
+
+<a href="https://profiles.eco/pumpkinspool?ref=tm" rel="noopener">
+	<img height="30px" class="eco-trustmark" alt=".eco profile for pumpkinspool.eco" src="https://trust.profiles.eco/pumpkinspool/eco-button.svg?color=%239F1744" style="max-width:4rem">
+</a>
