@@ -22,7 +22,10 @@ Commission not only covers operating costs, but is invested directly back into t
 
 ### Security 🔒
 #### Physical Security
-Pumpkin's Pool is hosted in a building with tight physical access controls, UPS power backup, daily automated backups, 24/7 monitoring, and alerting.
+Pumpkin's Pool is hosted in a building with tight physical access controls, a UPS power backup, daily automated backups, 24/7 monitoring, and alerting.
+
+#### Key Security
+Validators must operate with three important accounts/keypairs. The Validator Identy keypair which signs all transactions, the voting account keypair which stake accounts are delegated to, and finally the authorized withdrawl keypair which enables Solana tokens to be moved to and from the validator. The first two keys are required many times a second and must remain on the Validator server. These Keys are backed up on a separate secured server and encrypted with 256-bit AES encryption. The third keypair, Authorized Withdrawl Keypair, is stored offline in vault. The private key is not connected to the internet in any way, and never will be.
 
 #### Could I lose my tokens?
 This section of the [Solana documentation](https://docs.solana.com/staking#:~:text=When%20a%20validator%20is%20slashed,to%20their%20reduced%20total%20delegation.) describes how staked tokens can be lost:
