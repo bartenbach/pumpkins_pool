@@ -35,6 +35,11 @@ Essentially, this happens when a malcious validator attempts to cheat the networ
 ### Links 🔗
 - [Pumpkin's Pool on Validators.app](https://www.validators.app/validators/4cheZ7QmWigAXpbZog7SMeXBXLHgKG2U8aGGJ8ba772y?locale=en&network=mainnet&order=&refresh=)
 
+### Who's Pumpkin? 😺
+Pumpkin is the name of the pool owner's 3 year old domestic longhair cat.
+
+She is very friendly and loves meeting new people.
+
 <a href="https://profiles.eco/pumpkinspool?ref=tm" rel="noopener">
 	<img height="30px" class="eco-trustmark" alt=".eco profile for pumpkinspool.eco" src="https://trust.profiles.eco/pumpkinspool/eco-button.svg?color=%239F1744" style="max-width:4rem">
 </a>
