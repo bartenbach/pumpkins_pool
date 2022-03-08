@@ -14,9 +14,12 @@ This keeps Solana distributed, fair, and unbiased.
 Pumpkin's pool is powered by the latest servers with Intel Xeon Gold CPUs, DDR4 memory, and several terabytes of SSD storage.
 
 ### Solid Returns 💰
-With a competitive commission of only **10%**, stakeholders acquire **90%** of staked earnings.
+~~With a competitive commission of only **10%**, stakeholders acquire **90%** of staked earnings.~~
+We care about our mission, and we need your help. That's why we've decided to waive all fees until 2023.
 
-**5%** of all profits go directly to providing clean energy.
+That is right, **100%** of staked rewards go directly to our stakeholders.
+
+Our promise remains the same. **5%** of all profits go directly to providing clean energy. Stakeholders will be notified well in advance of the projected fee schedule at the time, and given ample notice to redelegate if they wish to do so. This will be posted here, and any and all concerns can be brought to our attention in the Solana Discord. 
 
 ### Security 🔒
 #### Physical Security
@@ -32,11 +35,18 @@ This section of the [Solana documentation](https://docs.solana.com/staking#:~:te
 
 Essentially, this happens when a malcious validator attempts to cheat the network. You can avoid this by ensuring you are only delegating stake to pools you trust. If anything seems sketchy or out of place, move along.
 
-### Links 🔗
-- [Pumpkin's Pool on Validators.app](https://www.validators.app/validators/4cheZ7QmWigAXpbZog7SMeXBXLHgKG2U8aGGJ8ba772y?locale=en&network=mainnet&order=&refresh=)
+### Vote Account
+To delegate stake to Pumpkin's Pool, use delegation address `DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx`
 
-### Who's Pumpkin? 😺
-Pumpkin is the name of the pool owner's 3 year old domestic longhair cat.
+### Links 🔗
+Track Pumpkin's Pool on your favorite tracking app:
+- [Validators.app](https://www.validators.app/validators/4cheZ7QmWigAXpbZog7SMeXBXLHgKG2U8aGGJ8ba772y?locale=en&network=mainnet&order=&refresh=)
+- [StakeView](https://stakeview.app/)
+- [StakeWiz](https://stakewiz.com/)
+- [SolanaBeach](https://solanabeach.io/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
+
+### Who's Pumpkin? 🐱
+Pumpkin is the name of Blake's (the pool owner's) 3 year old domestic longhair cat.
 
 She is very friendly and loves meeting new people.
 
