@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/pumpkinspool
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pumpkinspool.eco
+  * I am pumpkinspool (https://keybase.io/pumpkinspool) on keybase.
+  * I have a public key ASDSncqSOOI3e47QvBVjbYuXN8qTtupbeK1D-sz4r6Jymwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d29dca9238e2377b8ed0bc15636d8b9737ca93b6ea5b78ad43faccf8afa2729b0a",
+      "host": "keybase.io",
+      "kid": "0120d29dca9238e2377b8ed0bc15636d8b9737ca93b6ea5b78ad43faccf8afa2729b0a",
+      "uid": "2c4d3afc3b6e7dd86f4505ce5faa2a19",
+      "username": "pumpkinspool"
+    },
+    "merkle_root": {
+      "ctime": 1646947508,
+      "hash": "e28225a5c21146d29a7caf96abe6b4a63d20de39d472f70876cfcf8b41eaae47c50f3965a3159060d9f73fc5db7c9ea6b5ea37f35dfa58592b23397980614b6c",
+      "hash_meta": "a0e687c973ee944303d7de5b8ff4c199ec60d50d7def2e46285e05e90a5b71cb",
+      "seqno": 22050369
+    },
+    "service": {
+      "entropy": "7tmlbrAv3dWskd8ojskAIEti",
+      "hostname": "pumpkinspool.eco",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1646947520,
+  "expire_in": 504576000,
+  "prev": "4b6944134fc8c7bdfb2c5f7b253b0b8fc2a9f2a03475e6e964bdf191c003e305",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg0p3KkjjiN3uO0LwVY22LlzfKk7bqW3itQ/rM+K+icpsKp3BheWxvYWTESpcCB8QgS2lEE0/Ix737LF97JTsLj8Kp8qA0debpZL3xkcAD4wXEIEkpYgvNV4AHFOssWFccQEkKZNGNhjsQlO5IgQQJR7dGAgHCo3NpZ8RAd7h1u81z+oVcVJyCDQhDqtS7hO0f3mw/8DF2gTFoLySfiuktaMbXIg2sO2C9RUEahGlhrKyuYEx5Zh/GqhcfAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOPrVtEj0+Xyy1rz3pzunl3HwxLgCHa2sNm5f7WXv+Edo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pumpkinspool
+
+==================================================================
