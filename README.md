@@ -45,8 +45,12 @@ Track Pumpkin's Pool on your favorite tracking app:
 - [StakeWiz](https://stakewiz.com/)
 - [SolanaBeach](https://solanabeach.io/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
 
-### Who's Pumpkin? 🐱
-Pumpkin is the name of Blake's (the pool owner's) 3 year old domestic longhair cat.
+Get in touch
+- [Pumpkin's Pool Discord](https://discord.gg/Eqjd36SDGc)
+- [Solana Discord](https://discord.gg/solana)
+
+### Who's Pumpkin? 🐈
+Pumpkin is the name of the pool owner's 3 year old domestic longhair cat.
 
 She is very friendly and loves meeting new people.
 
