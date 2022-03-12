@@ -14,12 +14,13 @@ This keeps Solana distributed, fair, and unbiased.
 Pumpkin's pool is powered by the latest servers with Intel Xeon Gold CPUs, DDR4 memory, and several terabytes of SSD storage.
 
 ### Solid Returns 💰
-~~With a competitive commission of only **10%**, stakeholders acquire **90%** of staked earnings.~~
 We care about our mission, and we need your help. That's why we've decided to waive all fees until 2023.
 
 That is right, **100%** of staked rewards go directly to our stakeholders.
 
-Our promise remains the same. **5%** of all profits go directly to providing clean energy. Stakeholders will be notified well in advance of the projected fee schedule at the time, and given ample notice to redelegate if they wish to do so. This will be posted here, and any and all concerns can be brought to our attention in the Solana Discord. 
+Our promise remains the same. 
+
+**5%** of all profits go directly to providing clean energy. Stakeholders will be notified well in advance of the projected fee schedule at the time, and given ample notice to redelegate if they wish to do so. This will be posted here, and any and all concerns can be brought to our attention in the Solana or PP (Pumpkin's Pool) Discord. 
 
 ### Security 🔒
 #### Physical Security
