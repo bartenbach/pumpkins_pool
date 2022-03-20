@@ -30,6 +30,8 @@ Pumpkin's Pool is hosted in a building with tight physical access controls, a UP
 Validators must operate with three important accounts/keypairs. The Validator Identy keypair which signs all transactions, the voting account keypair which stake accounts are delegated to, and finally the authorized withdrawl keypair which enables Solana tokens to be moved to and from the validator. The first two keys are required many times a second and must remain on the Validator server. These Keys are backed up on a separate secured server and encrypted with 256-bit AES encryption. The third keypair is the Authorized Withdrawl Keypair, which is stored offline in a vault. The private key is not connected to the internet in any way, and never will be.
 
 #### Could I lose my tokens?
+**Note: This is currently not implemented, so technically you *cannot* lose your tokens. However, the documentation referenced below is the plan going forward at some point. So, be aware that although it is impossible for you to lose anything currently - in the future you could, so choose wisely.**
+
 This section of the [Solana documentation](https://docs.solana.com/staking#:~:text=When%20a%20validator%20is%20slashed,to%20their%20reduced%20total%20delegation.) describes how staked tokens can be lost:
 > You risk losing tokens when staking through a process known as slashing. Slashing involves the removal and destruction of a portion of a validator's delegated stake in response to intentional malicious behavior, such as creating invalid transactions or censoring certain types of transactions or network participants.
 > When a validator is slashed, all token holders who have delegated stake to that validator lose a portion of their delegation. While this means an immediate loss for the token holder, it also is a loss of future rewards for the validator due to their reduced total delegation.
@@ -41,8 +43,8 @@ To delegate stake to Pumpkin's Pool, use delegation address `DsiG71AvUHUEo9rMMHq
 
 ### Links 🔗
 Track Pumpkin's Pool on your favorite tracking app:
+- [StakeView (Recommended, ranks by APY)](https://stakeview.app/)
 - [Validators.app](https://www.validators.app/validators/4cheZ7QmWigAXpbZog7SMeXBXLHgKG2U8aGGJ8ba772y?locale=en&network=mainnet&order=&refresh=)
-- [StakeView](https://stakeview.app/)
 - [StakeWiz](https://stakewiz.com/)
 - [SolanaBeach](https://solanabeach.io/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
 
@@ -54,7 +56,9 @@ Get in touch
 ### Who's Pumpkin? 🐈
 Pumpkin is the name of the pool owner's 3 year old domestic longhair cat.
 
-She is very friendly and loves meeting new people.
+She is very friendly and loves meeting new people 😺
+
+You can see more of her on the [Pumpkin's Pool Instagram](https://instagram.com/pumpkinspool)
 
 <a href="https://profiles.eco/pumpkinspool?ref=tm" rel="noopener">
 	<img height="30px" class="eco-trustmark" alt=".eco profile for pumpkinspool.eco" src="https://trust.profiles.eco/pumpkinspool/eco-button.svg?color=%239F1744" style="max-width:4rem">
