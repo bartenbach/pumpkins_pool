@@ -37,10 +37,10 @@ The first two keys are required many times a second and must remain on the Valid
 #### Could I lose my tokens?
 No, this is not currently possible. However, the Solana foundation plans to implement slashing in the future, so it still makes sense to choose your validator wisely.
 
-### Sign me up!! 🌎
+### Sign me up! 🌎
 To delegate stake to Pumpkin's Pool and start earning rewards, use `DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx` or check out one of the links below.
 
-If you're not sure how to get started, you can always use the Phantom Wallet app on a supported cellphone or browser. You can then:
+If you're not sure how to get started, you can always use the [Phantom Wallet](https://phantom.app/) app on a supported cellphone or browser. You can then:
 1. Purchase Solana using Phantom Wallet (It provides several methods you can use)
 2. Choose to stake/delegate (Start earning SOL button on the app)
 3. Search for Pumpkin's Pool
