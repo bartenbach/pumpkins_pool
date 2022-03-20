@@ -26,7 +26,7 @@ Then, our promise remains exactly the same: **5%** of all profits go directly to
 #### Physical Security
 Pumpkin's Pool is hosted in a building with very tight physical access controls, a UPS backup, a daily automated backup system, and has 24/7 monitoring and alerting.
 
-#### Key Security
+#### Network Security
 Validators must manage three important keypairs.
 - The *Identity* keypair which signs all transactions
 - The *Voting* keypair which stake accounts are delegated to
