@@ -64,9 +64,9 @@ Get in touch
 ### Who's Pumpkin? 🐈
 Pumpkin is the name of the pool owner's 3 year old domestic longhair cat.
 
-She is very friendly and loves meeting new people 😺
+She is very friendly and loves meeting new people 😃
 
-You can see more of her on the [Pumpkin's Pool Instagram](https://instagram.com/pumpkinspool)
+[Check out Pumpkin's Instagram 😺](https://instagram.com/pumpkinspool)
 
 <a href="https://profiles.eco/pumpkinspool?ref=tm" rel="noopener">
 	<img height="30px" class="eco-trustmark" alt=".eco profile for pumpkinspool.eco" src="https://trust.profiles.eco/pumpkinspool/eco-button.svg?color=%239F1744" style="max-width:4rem">
