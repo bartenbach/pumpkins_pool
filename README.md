@@ -24,7 +24,7 @@ Then, our promise remains exactly the same: **5%** of all profits go directly to
 
 ### Security 🔒
 #### Physical Security
-Pumpkin's Pool is hosted in a building with very tight physical access controls, UPS backup, daily automated backups, 24/7 monitoring, and alerting.
+Pumpkin's Pool is hosted in a building with very tight physical access controls, a UPS backup, a daily automated backup system, and has 24/7 monitoring and alerting.
 
 #### Key Security
 Validators must manage three important keypairs.
