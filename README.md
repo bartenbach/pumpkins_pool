@@ -9,9 +9,7 @@ We're committed to doing the right thing for the environment, which is why we pa
 By staking with Pumpkin's Pool, you keep Solana distributed, fair, and unbiased.
 
 ### Blazingly Fast 🧨
-Don't let green energy give you the wrong impression - we're a Tesla, not a Prius.
-
-We're powered by some of the latest and greatest server technology on the market.
+Don't let green energy give you the wrong impression - we're a Tesla, not a Prius. We're powered by some of the latest and greatest server technology on the market.
 
 ### Solid Returns 💰
 So here's the thing: We actually care about our mission. A lot. The planet matters, and together we can make a difference.
