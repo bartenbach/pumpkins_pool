@@ -31,11 +31,11 @@ Validators must manage three important keypairs.
 - The *Identity* keypair which signs all transactions
 - The *Voting* keypair which stake accounts are delegated to
 - The *Authorized Withdrawer* keypair which enables Solana tokens to be moved to and from the validator.
-- 
-- The first two keys are required many times a second and must remain on the Validator server, but are also backed up nightly. The third keypair is the Authorized Withdrawl Keypair, which is stored offline in a literal vault. There is absolutely no risk of the key being compromised as it is not physically connected to a computer.
+
+The first two keys are required many times a second and must remain on the Validator server, but are also backed up nightly. The third keypair is the *Authorized Withdrawer* Keypair, which is stored offline in cold storage in an actual vault. There is absolutely no risk of the key being compromised as it is not physically connected to a computer.
 
 #### Could I lose my tokens?
-No, this is currently not implemented. However, the Solana foundation plans to implement slashing in the future, so it still makes sense to choose your validator wisely.
+No, this is not currently possible. However, the Solana foundation plans to implement slashing in the future, so it still makes sense to choose your validator wisely.
 
 ### Sign me up!! 🌎
 To delegate stake to Pumpkin's Pool and start earning rewards, use `DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx` or check out one of the links below.
