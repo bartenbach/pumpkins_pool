@@ -6,40 +6,50 @@ Pumpkin's Pool is a Solana stake pool focused on animal welfare and environmenta
 We're committed to doing the right thing for the environment, which is why we participate in the [Community Solar program](https://pubdisplay.alsoenergy.com/kiosk/18014398509527082?dashkey=2a5669734965576e4a43513d3d&tag=4246267).
 
 ### Decentralized 🕸️
-Stakeholders help keep Solana decentralized. Diversifying prevents corporate takeover and giant clusters from forming in datacenters.
-
-This keeps Solana distributed, fair, and unbiased.
+By staking with Pumpkin's Pool, you keep Solana distributed, fair, and unbiased.
 
 ### Blazingly Fast 🧨
-Pumpkin's pool is powered by the latest servers with Intel Xeon Gold CPUs, DDR4 memory, and several terabytes of SSD storage.
+Don't let green energy give you the wrong impression - we're a Tesla, not a Prius.
+
+We're powered by some of the latest and greatest server technology on the market.
 
 ### Solid Returns 💰
-We care about our mission, and we need your help. That's why we've decided to waive all fees until 2023.
+So here's the thing: We actually care about our mission. A lot. The planet matters, and together we can make a difference.
+
+That's why we've decided to waive all fees until 2023.
 
 That is right, **100%** of staked rewards go directly to our stakeholders.
 
-Our promise remains the same. 
+In 2023, we will reasses our business model and decide on a commission rate that will best accomplish our mission. Stakeholders will be notified well in advance of the projected commission rate change, and given ample notice to redelegate if they wish to do so. This will be posted here on the Pumpkin's Pool website, and also in the PP (Pumpkin's Pool) Discord.
 
-**5%** of all profits go directly to providing clean energy. Stakeholders will be notified well in advance of the projected fee schedule at the time, and given ample notice to redelegate if they wish to do so. This will be posted here, and any and all concerns can be brought to our attention in the Solana or PP (Pumpkin's Pool) Discord. 
+Then, our promise remains exactly the same: **5%** of all profits go directly to providing clean energy and improving the welfare of animals without homes.
 
 ### Security 🔒
 #### Physical Security
-Pumpkin's Pool is hosted in a building with tight physical access controls, a UPS power backup, daily automated backups, 24/7 monitoring, and alerting.
+Pumpkin's Pool is hosted in a building with very tight physical access controls, UPS backup, daily automated backups, 24/7 monitoring, and alerting.
 
 #### Key Security
-Validators must operate with three important accounts/keypairs. The Validator Identy keypair which signs all transactions, the voting account keypair which stake accounts are delegated to, and finally the authorized withdrawl keypair which enables Solana tokens to be moved to and from the validator. The first two keys are required many times a second and must remain on the Validator server. These Keys are backed up on a separate secured server and encrypted with 256-bit AES encryption. The third keypair is the Authorized Withdrawl Keypair, which is stored offline in a vault. The private key is not connected to the internet in any way, and never will be.
+Validators must manage three important keypairs.
+- The *Identity* keypair which signs all transactions
+- The *Voting* keypair which stake accounts are delegated to
+- The *Authorized Withdrawer* keypair which enables Solana tokens to be moved to and from the validator.
+- 
+- The first two keys are required many times a second and must remain on the Validator server, but are also backed up nightly. The third keypair is the Authorized Withdrawl Keypair, which is stored offline in a literal vault. There is absolutely no risk of the key being compromised as it is not physically connected to a computer.
 
 #### Could I lose my tokens?
-**Note: This is currently not implemented, so technically you *cannot* lose your tokens. However, the documentation referenced below is the plan going forward at some point. So, be aware that although it is impossible for you to lose anything currently - in the future you could, so choose wisely.**
+No, this is currently not implemented. However, the Solana foundation plans to implement slashing in the future, so it still makes sense to choose your validator wisely.
 
-This section of the [Solana documentation](https://docs.solana.com/staking#:~:text=When%20a%20validator%20is%20slashed,to%20their%20reduced%20total%20delegation.) describes how staked tokens can be lost:
-> You risk losing tokens when staking through a process known as slashing. Slashing involves the removal and destruction of a portion of a validator's delegated stake in response to intentional malicious behavior, such as creating invalid transactions or censoring certain types of transactions or network participants.
-> When a validator is slashed, all token holders who have delegated stake to that validator lose a portion of their delegation. While this means an immediate loss for the token holder, it also is a loss of future rewards for the validator due to their reduced total delegation.
+### Sign me up!! 🌎
+To delegate stake to Pumpkin's Pool and start earning rewards, use `DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx` or check out one of the links below.
 
-Essentially, this happens when a malcious validator attempts to cheat the network. You can avoid this by ensuring you are only delegating stake to pools you trust. If anything seems sketchy or out of place, move along.
+If you're not sure how to get started, you can always use the Phantom Wallet app on a supported cellphone or browser. You can then:
+1. Purchase Solana using Phantom Wallet (It provides several methods you can use)
+2. Choose to stake/delegate (Start earning SOL button on the app)
+3. Search for Pumpkin's Pool
+4. Delegate some or all of your Solana tokens
+5. Celebrate! 🙌 You're not only earning the most competitive APY in the game, you're helping make the planet a better place!
 
-### Vote Account
-To delegate stake to Pumpkin's Pool, use delegation address `DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx`
+*Note: It can take up to two days for the Solana delegation to activate, so don't stress! This is completely normal! Delegating and undelegating happens in regular intervals called 'epochs'.*
 
 ### Links 🔗
 Track Pumpkin's Pool on your favorite tracking app:
