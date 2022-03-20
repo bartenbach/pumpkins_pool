@@ -59,7 +59,7 @@ Track Pumpkin's Pool on your favorite tracking app:
 Get in touch
 - [Pumpkin's Pool Discord](https://discord.gg/Eqjd36SDGc)
 - [Solana Discord](https://discord.gg/solana)
-- #pumpkinspool on libera
+- [#pumpkinspool on libera](https://kiwiirc.com/nextclient/#irc://irc.libera.chat/pumpkinspool)
 
 ### Who's Pumpkin? 🐈
 Pumpkin is the name of the pool owner's 3 year old domestic longhair cat.
