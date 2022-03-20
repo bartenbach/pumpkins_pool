@@ -16,7 +16,7 @@ So here's the thing: We actually care about our mission. A lot. The planet matte
 
 That's why we've decided to waive all fees until 2023.
 
-That is right, **100%** of staked rewards go directly to our stakeholders.
+**100%** of staked rewards go directly to our stakeholders.
 
 In 2023, we will reasses our business model and decide on a commission rate that will best accomplish our mission. Stakeholders will be notified well in advance of the projected commission rate change, and given ample notice to redelegate if they wish to do so. This will be posted here on the Pumpkin's Pool website, and also in the PP (Pumpkin's Pool) Discord.
 
