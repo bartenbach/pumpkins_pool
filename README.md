@@ -38,13 +38,12 @@ The first two keys are required many times a second and must remain on the Valid
 No, this is not currently possible. However, the Solana foundation plans to implement slashing in the future, so it still makes sense to choose your validator wisely.
 
 ### Sign me up! 🌎
-To delegate stake to Pumpkin's Pool and start earning rewards, use `DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx` or check out one of the links below.
+To delegate stake to Pumpkin's Pool and start earning rewards, we'll delegate to vote account ```DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx```
 
-If you're not sure how to get started, you can always use [Phantom Wallet](https://phantom.app/):
-1. Follow [this guide](https://phantom.app/blog/solana-staking-in-just-3-clicks) and search for Pumpkin's Pool
-2. Celebrate! 🙌 You're not only earning the most competitive APY in the game, but you're helping make the planet a better place!
-
-*Note: It can take up to two days for the Solana delegation to activate, so don't stress! This is completely normal! Delegating and undelegating happens in regular intervals called 'epochs'.*
+If you're not sure where to start, you can use one of the following Wallet guides:
+- [Phantom Wallet](https://phantom.app/blog/solana-staking-in-just-3-clicks)
+- [Solflare](https://academy.solflare.com/guides/how-to-get-started-with-solflare/)
+- [Solana CLI (advanced)](https://docs.solana.com/cli/delegate-stake)
 
 ### Links 🔗
 Track Pumpkin's Pool on your favorite tracking app:
