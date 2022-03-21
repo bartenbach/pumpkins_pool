@@ -40,7 +40,7 @@ No, this is not currently possible. However, the Solana foundation plans to impl
 ### Sign me up! 🌎
 To delegate stake to Pumpkin's Pool and start earning rewards, use `DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx` or check out one of the links below.
 
-If you're not sure how to get started, you can always use the [Phantom Wallet](https://phantom.app/) app on a supported cellphone or browser. You can then:
+If you're not sure how to get started, you can always use [Phantom Wallet](https://phantom.app/):
 1. Follow [this guide](https://phantom.app/blog/solana-staking-in-just-3-clicks) and search for Pumpkin's Pool
 2. Celebrate! 🙌 You're not only earning the most competitive APY in the game, but you're helping make the planet a better place!
 
