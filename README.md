@@ -41,11 +41,8 @@ No, this is not currently possible. However, the Solana foundation plans to impl
 To delegate stake to Pumpkin's Pool and start earning rewards, use `DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx` or check out one of the links below.
 
 If you're not sure how to get started, you can always use the [Phantom Wallet](https://phantom.app/) app on a supported cellphone or browser. You can then:
-1. Purchase some Solana tokens
-2. Choose to stake/delegate (Start earning SOL button on the app)
-3. Search for Pumpkin's Pool
-4. Delegate some or all of your Solana tokens
-5. Celebrate! 🙌 You're not only earning the most competitive APY in the game, you're helping make the planet a better place!
+1. Follow [this guide](https://phantom.app/blog/solana-staking-in-just-3-clicks) and search for Pumpkin's Pool
+2. Celebrate! 🙌 You're not only earning the most competitive APY in the game, but you're helping make the planet a better place!
 
 *Note: It can take up to two days for the Solana delegation to activate, so don't stress! This is completely normal! Delegating and undelegating happens in regular intervals called 'epochs'.*
 
