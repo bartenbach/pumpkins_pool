@@ -38,7 +38,7 @@ The first two keys are required many times a second and must remain on the Valid
 No, this is not currently possible. However, the Solana foundation plans to implement slashing in the future, so it still makes sense to choose your validator wisely.
 
 ### Sign me up! 🌎
-To delegate stake to Pumpkin's Pool and start earning rewards, we'll delegate to vote account ```DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx```
+To delegate stake to Pumpkin's Pool and start earning rewards, delegate to vote account ```DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx```
 
 If you're not sure where to start, you can use one of the following Wallet guides:
 - [Phantom Wallet](https://phantom.app/blog/solana-staking-in-just-3-clicks)
