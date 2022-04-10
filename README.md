@@ -60,7 +60,7 @@ If you're not sure where to start, you can use one of the following Wallet guide
 Track Pumpkin's Pool on your favorite tracking app:
 - [StakeView (Recommended, ranks by APY)](https://stakeview.app/)
 - [Validators.app](https://www.validators.app/validators/4cheZ7QmWigAXpbZog7SMeXBXLHgKG2U8aGGJ8ba772y?locale=en&network=mainnet&order=&refresh=)
-- [StakeWiz](https://stakewiz.com/)
+- [StakeWiz](https://stakewiz.com/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
 - [SolanaBeach](https://solanabeach.io/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
 
 Get in touch
