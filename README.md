@@ -3,6 +3,8 @@
 Pumpkin's Pool is a Solana stake pool focused on animal welfare and environmental preservation via green energy.
 
 # News
+**4/11/22** Hey everyone, due to some changes in the Solana network recently, our current hardware is unable to keep up. Because of this, we're going to transition to a data center to provide a more stable and much faster connection than could every be possible in our current arrangement. I don't have an exact ETA for this, but I would assume by next epoch everything will be worked out.
+
 **4/10/22** Slight downtime today installing new dedicated NVMe drive for the server. Failover coming soon :) Metrics will be skewed this epoch, unfortunately. It's not my favorite thing either obviously, but this is going to pay off in the long run. I'm hoping the next short downtime event will be the last as the failover server gets integrated. Have a great week everyone!
 
 **4/2/22** Hey everyone, Pumpkin's Pool underwent a major CPU upgrade yesterday! You can check our Discord server for more info, but everything is looking *really* good. The epoch timing was a little unfortunate with respect to our metrics, but the sooner we bit the bullet on this, the better. We want to be producing as many blocks as possible to produce the greatest amount of rewards, and the old hardware just wasn't cutting it. It wasn't a question of if it needed to be upgraded, it was a question of when. We're now looking better than ever.
