@@ -48,9 +48,11 @@ Validators must manage three important keypairs.
 The first two keys are required many times a second and must remain on the Validator server, but are also backed up nightly. The third keypair is the *Authorized Withdrawer* Keypair, which is stored offline in cold storage in an actual vault. There is absolutely no risk of the key being compromised as it is not physically connected to a computer.
 
 #### Could I lose my tokens?
-No, this is not currently possible. However, the Solana foundation plans to implement slashing in the future, so it still makes sense to choose your validator wisely.
+No, this is not possible. You remain in full control of your tokens at all times, even if the validator goes offline. This is because the record of your delegated stake lives on the blockchain which is distributed globally (not just on one validator).
 
-### Sign me up! 🌎
+You will always be able to reclaim your tokens.
+
+# Join us in World Domination! 🌎
 To delegate stake to Pumpkin's Pool and start earning rewards, delegate to vote account ```DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx```
 
 If you're not sure where to start, you can use one of the following Wallet guides:
