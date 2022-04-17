@@ -63,15 +63,22 @@ If you're not sure where to start, you can use one of the following Wallet guide
 
 ### Links 🔗
 Track Pumpkin's Pool on your favorite tracking app:
-- [Solana Compass](https://solanacompass.com/validators/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
 - [StakeView](https://stakeview.app/)
 - [Validators.app](https://www.validators.app/validators/PUmpKiNnSVAZ3w4KaFX6jKSjXUNHFShGkXbERo54xjb?locale=en&network=mainnet&order=&refresh=)
 - [StakeWiz](https://stakewiz.com/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
 - [SolanaBeach](https://solanabeach.io/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
+- [Marinade](https://marinade.finance/)
+- [Solana Compass](https://solanacompass.com/validators/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
 
-Get in touch
+Get involved
 - [Pumpkin's Pool Discord](https://discord.gg/Eqjd36SDGc)
 - [Solana Discord](https://discord.gg/solana)
+- [Solana Commmunity Discord](https://discord.gg/ZynJv59zDu)
+- [Marinade Discord](https://discord.com/invite/6EtUf4Euu6)
+- [Laine Discord](https://discord.gg/uT79hSNBMX)
+- [Shinobi Systems Discord](https://discord.gg/7aCzdHmuxb)
+- [GenesysGo Discord](https://discord.gg/NJqvhKKYba)
+- [JPool Discord](https://discord.gg/VzX22eyj8J)
 - [#pumpkinspool on libera](https://kiwiirc.com/nextclient/#irc://irc.libera.chat/pumpkinspool)
 
 ### Who's Pumpkin? 🐈
