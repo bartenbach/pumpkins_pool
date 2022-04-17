@@ -6,10 +6,11 @@ To delegate stake to Pumpkin's Pool and start earning rewards, delegate to our v
 DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx
 ```
 
-If you're not sure where to start, you can use one of the following Wallet guides:
+If you're not sure where to start, you can use one of the following Wallet guides or staking websites
 - [Phantom Wallet](https://phantom.app/blog/solana-staking-in-just-3-clicks)
 - [SolanaBeach (Click the 'Stake' button)](https://solanabeach.io/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
 - [Solflare](https://academy.solflare.com/guides/how-to-get-started-with-solflare/)
+- [Solstake.io](https://solstake.io/#/app/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
 - [Solana CLI (advanced)](https://docs.solana.com/cli/delegate-stake)
 
 # Links 🔗
