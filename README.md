@@ -13,15 +13,18 @@ If you're not sure where to start, you can use one of the following Wallet guide
 - [Solana CLI (advanced)](https://docs.solana.com/cli/delegate-stake)
 
 # Links 🔗
-#### Validator apps and Stake Pools
+#### Validator Apps
 - [StakeView](https://stakeview.app/)
 - [Validators.app](https://www.validators.app)
 - [StakeWiz](https://stakewiz.com)
 - [SolanaBeach](https://solanabeach.io)
-- [Marinade](https://marinade.finance/)
 - [Solana Compass](https://solanacompass.com)
 
-#### Get involved in the Community
+#### Stake Pools
+- [Marinade](https://marinade.finance/)
+- [JPool](https://jpool.one)
+
+#### Get involved in the Community ❤️
 - [Pumpkin's Pool Discord](https://discord.gg/Eqjd36SDGc)
 - [Solana Discord](https://discord.gg/solana)
 - [Solana Commmunity Discord](https://discord.gg/ZynJv59zDu)
