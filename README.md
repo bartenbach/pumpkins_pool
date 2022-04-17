@@ -14,7 +14,7 @@ Pumpkin's Pool is a Solana stake pool focused on animal welfare and environmenta
 
 The future holds two other major upgrade events, but these aren't planned for any time soon yet. When these events *do* happen, it will put as at virtually (or perhaps literally) zero downtime, and prevent hardware failure from even taking us down. There are a lot of exciting things on the horizon, so stay tuned. We're just getting started 🐈
 
-# Our Committment
+# Our Commitment
 ### Clean Energy 🌞 🌲
 We're committed to doing the right thing for the environment, which is why we participate in the [Community Solar program](https://pubdisplay.alsoenergy.com/kiosk/18014398509527082?dashkey=2a5669734965576e4a43513d3d&tag=4246267).
 
