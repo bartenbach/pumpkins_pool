@@ -5,8 +5,6 @@ Pumpkin's Pool is a Solana stake pool focused on animal welfare and environmenta
 # News
 **4/11/22** We are back online after some extended downtime due to changes in the Solana network. We are going to continue to evaluate and adapt our strategy to provide the most value. Thank you for your patience and understanding as we navigate these challenges together 🐈
 
-**4/10/22** Slight downtime today installing new dedicated NVMe drive for the server. Failover coming soon :) Metrics will be skewed this epoch, unfortunately. It's not my favorite thing either obviously, but this is going to pay off in the long run. I'm hoping the next short downtime event will be the last as the failover server gets integrated. Have a great week everyone!
-
 **4/2/22** Hey everyone, Pumpkin's Pool underwent a major CPU upgrade yesterday! You can check our Discord server for more info, but everything is looking *really* good. The epoch timing was a little unfortunate with respect to our metrics, but the sooner we bit the bullet on this, the better. We want to be producing as many blocks as possible to produce the greatest amount of rewards, and the old hardware just wasn't cutting it. It wasn't a question of if it needed to be upgraded, it was a question of when. We're now looking better than ever.
 
 ![PoH](assets/img/hashrate.png)
@@ -42,15 +40,15 @@ Then, our promise remains exactly the same: **5%** of all profits go directly to
 Pumpkin's Pool is hosted in a building with very tight physical access controls, a UPS backup, a daily automated backup system, and has 24/7 monitoring and alerting.
 
 #### Network Security
-Validators must manage three important keypairs.
+Validators must manage three important keypairs:
 - The *Identity* keypair which signs all transactions
 - The *Voting* keypair which stake accounts are delegated to
-- The *Authorized Withdrawer* keypair which enables Solana tokens to be moved to and from the validator.
+- The *Authorized Withdrawer* keypair which enables Solana tokens to be moved to and from the validator
 
-The first two keys are required many times a second and must remain on the Validator server, but are also backed up nightly. The third keypair is the *Authorized Withdrawer* Keypair, which is stored offline in cold storage in an actual vault. There is absolutely no risk of the key being compromised as it is not physically connected to a computer.
+The first two keys are required many times a second and must remain on the Validator server. The third keypair is the *Authorized Withdrawer* Keypair, which is stored offline in cold storage in an actual vault. There is absolutely no risk of the key being compromised as it is not physically connected to a computer.
 
 #### Could I lose my tokens?
-No, this is not possible. You remain in full control of your tokens at all times, even if the validator goes offline. This is because the record of your delegated stake lives on the blockchain which is distributed globally (not just on one validator).
+No, this is not possible. You remain in full control of your tokens at all times, even if the validator goes offline. This is because the record of your delegated stake lives on the globally distributed blockchain, and not just on a validator.
 
 You will always be able to reclaim your tokens.
 
