@@ -15,11 +15,11 @@ If you're not sure where to start, you can use one of the following Wallet guide
 # Links 🔗
 #### Validator apps and Stake Pools
 - [StakeView](https://stakeview.app/)
-- [Validators.app](https://www.validators.app/validators/PUmpKiNnSVAZ3w4KaFX6jKSjXUNHFShGkXbERo54xjb?locale=en&network=mainnet&order=&refresh=)
-- [StakeWiz](https://stakewiz.com/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
-- [SolanaBeach](https://solanabeach.io/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
+- [Validators.app](https://www.validators.app)
+- [StakeWiz](https://stakewiz.com)
+- [SolanaBeach](https://solanabeach.io)
 - [Marinade](https://marinade.finance/)
-- [Solana Compass](https://solanacompass.com/validators/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
+- [Solana Compass](https://solanacompass.com)
 
 #### Get involved in the Community
 - [Pumpkin's Pool Discord](https://discord.gg/Eqjd36SDGc)
