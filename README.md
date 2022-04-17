@@ -30,7 +30,7 @@ If you're not sure where to start, you can use one of the following Wallet guide
 - [Shinobi Systems Discord](https://discord.gg/7aCzdHmuxb)
 - [GenesysGo Discord](https://discord.gg/NJqvhKKYba)
 - [JPool Discord](https://discord.gg/VzX22eyj8J)
-- [#pumpkinspool on libera](https://kiwiirc.com/nextclient/#irc://irc.libera.chat/pumpkinspool)
+- [IRC - #pumpkinspool on libera](https://kiwiirc.com/nextclient/#irc://irc.libera.chat/pumpkinspool)
 
 # Who's Pumpkin? 🐈
 Pumpkin is a 3 year old domestic longhair cat.
