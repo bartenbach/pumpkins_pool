@@ -1,7 +1,7 @@
 
 
 # Join us in World Domination! 🌎
-To delegate stake to Pumpkin's Pool and start earning rewards, delegate to vote account 
+To delegate stake to Pumpkin's Pool and start earning rewards, delegate to our vote account 
 ```bash
 DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx
 ```
