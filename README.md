@@ -1,7 +1,10 @@
 
 
 # Join us in World Domination! 🌎
-To delegate stake to Pumpkin's Pool and start earning rewards, delegate to vote account ```DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx```
+To delegate stake to Pumpkin's Pool and start earning rewards, delegate to vote account 
+```bash
+DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx
+```
 
 If you're not sure where to start, you can use one of the following Wallet guides:
 - [Phantom Wallet](https://phantom.app/blog/solana-staking-in-just-3-clicks)
@@ -10,7 +13,7 @@ If you're not sure where to start, you can use one of the following Wallet guide
 - [Solana CLI (advanced)](https://docs.solana.com/cli/delegate-stake)
 
 # Links 🔗
-Track Pumpkin's Pool on your favorite tracking app:
+#### Validator apps and Stake Pools
 - [StakeView](https://stakeview.app/)
 - [Validators.app](https://www.validators.app/validators/PUmpKiNnSVAZ3w4KaFX6jKSjXUNHFShGkXbERo54xjb?locale=en&network=mainnet&order=&refresh=)
 - [StakeWiz](https://stakewiz.com/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
@@ -18,7 +21,7 @@ Track Pumpkin's Pool on your favorite tracking app:
 - [Marinade](https://marinade.finance/)
 - [Solana Compass](https://solanacompass.com/validators/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
 
-Get involved
+#### Get involved in the Community
 - [Pumpkin's Pool Discord](https://discord.gg/Eqjd36SDGc)
 - [Solana Discord](https://discord.gg/solana)
 - [Solana Commmunity Discord](https://discord.gg/ZynJv59zDu)
@@ -29,8 +32,8 @@ Get involved
 - [JPool Discord](https://discord.gg/VzX22eyj8J)
 - [#pumpkinspool on libera](https://kiwiirc.com/nextclient/#irc://irc.libera.chat/pumpkinspool)
 
-### Who's Pumpkin? 🐈
-Pumpkin is the pool owner's 3 year old domestic longhair cat.
+# Who's Pumpkin? 🐈
+Pumpkin is a 3 year old domestic longhair cat.
 
 She is very friendly and loves meeting new people (and eating wet food) 😃
 
