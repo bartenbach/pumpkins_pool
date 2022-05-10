@@ -7,7 +7,7 @@ DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx
 ```
 
 If you're not sure where to start, you can use one of the following wallet guides or staking websites
-- [Validators.app (Link on page to delegate)[https://www.validators.app/validators/PUmpKiNnSVAZ3w4KaFX6jKSjXUNHFShGkXbERo54xjb?locale=en&network=mainnet&order=&refresh=]
+- [Validators.app (Link on page to delegate)][https://www.validators.app/validators/PUmpKiNnSVAZ3w4KaFX6jKSjXUNHFShGkXbERo54xjb?locale=en&network=mainnet&order=&refresh=]
 - [SolanaBeach (Click the 'Stake' button)](https://solanabeach.io/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
 - [Phantom Wallet (Mobile app)](https://phantom.app/blog/solana-staking-in-just-3-clicks)
 - [Solflare](https://academy.solflare.com/guides/how-to-get-started-with-solflare/)
