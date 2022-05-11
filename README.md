@@ -14,15 +14,15 @@ If you're not sure where to start, you can use one of the following wallet guide
 - [Solstake.io](https://solstake.io/#/app/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
 - [Solana CLI (advanced)](https://docs.solana.com/cli/delegate-stake)
 
-# Links 🔗
-#### Validator Tracking Apps
+# Resources 🔗
+#### Validator Tracking Apps 📊
 - [Solana Compass](https://solanacompass.com/validators/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
 - [SolanaBeach](https://solanabeach.io/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
 - [Validators.app](https://www.validators.app/validators/PUmpKiNnSVAZ3w4KaFX6jKSjXUNHFShGkXbERo54xjb?locale=en&network=mainnet&order=&refresh=)
 - [StakeWiz](https://stakewiz.com/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
 - [StakeView](https://stakeview.app/)
 
-#### Stake Pools
+#### Stake Pools 🏊
 - [Socean](https://www.socean.fi/)
 - [Marinade](https://marinade.finance/)
 - [JPool](https://jpool.one)
@@ -37,6 +37,10 @@ If you're not sure where to start, you can use one of the following wallet guide
 - [GenesysGo Discord](https://discord.gg/NJqvhKKYba)
 - [JPool Discord](https://discord.gg/VzX22eyj8J)
 - [IRC - #pumpkinspool on libera](https://kiwiirc.com/nextclient/#irc://irc.libera.chat/pumpkinspool)
+
+#### Validator Resources 🖥️
+- [Official Solana Documentation](https://solana.com/validators)
+- [Validator Guidebook](https://www.solana-validator-guidebook.com/)
 
 # Who's Pumpkin? 🐈
 Pumpkin is a very vocal and incredibly friendly 3 year old domestic longhair cat.
