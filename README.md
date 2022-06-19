@@ -6,7 +6,7 @@ To delegate stake to Pumpkin's Pool and start earning rewards, delegate to our v
 DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx
 ```
 
-If you're not sure how to start staking, you can use one of the following wallet trusted resources:
+If you're not sure how to start staking, you can use one of the following trusted resources:
 - [StakeWiz (Link to stake)](https://stakewiz.com/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
 - [Validators.app (Link on page to delegate)](https://www.validators.app/validators/PUmpKiNnSVAZ3w4KaFX6jKSjXUNHFShGkXbERo54xjb?locale=en&network=mainnet&order=&refresh=)
 - [SolanaBeach (Click the 'Stake' button)](https://solanabeach.io/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
