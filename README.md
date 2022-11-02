@@ -27,7 +27,7 @@ We're committed to doing the right thing for the environment, which is why we pa
 ### Fast and Reliable 🧨
 We're powered by the latest and greatest enterprise-grade server technology available. Combined with years of DevOps experience and a robust monitoring and reporting configuration, the validator statistics on [StakeWiz](https://stakewiz.com/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx) speak for themselves.
 
-### Competitive Returns 💰
+### Top Returns on Solana 💰
 So here's the thing: We actually care about our mission. A lot. The planet matters, and together we can make a difference.
 
 To that end, we're giving **100%** of staked rewards directly to our delegators. There are **no fees**. We operate at **0% commission**.
