@@ -28,18 +28,11 @@ If you're not sure how to start staking, you can use one of the following truste
 
 #### Get involved in the Community ❤️
 - [Pumpkin's Pool Discord](https://discord.gg/Eqjd36SDGc)
-- [Solana Discord](https://discord.gg/solana)
+- [Solana Tech Discord](https://discord.gg/solana)
 - [Solana Commmunity Discord](https://discord.gg/ZynJv59zDu)
 - [Marinade Discord](https://discord.com/invite/6EtUf4Euu6)
 - [Laine Discord](https://discord.gg/uT79hSNBMX)
-- [Shinobi Systems Discord](https://discord.gg/7aCzdHmuxb)
-- [GenesysGo Discord](https://discord.gg/NJqvhKKYba)
 - [JPool Discord](https://discord.gg/VzX22eyj8J)
-- [IRC - #pumpkinspool on libera](https://kiwiirc.com/nextclient/#irc://irc.libera.chat/pumpkinspool)
-
-#### Validator Resources 🖥️
-- [Official Solana Documentation](https://solana.com/validators)
-- [Validator Guidebook](https://www.solana-validator-guidebook.com/)
 
 # Who's Pumpkin? 🐈
 Pumpkin is a very vocal and incredibly friendly 3 year old domestic longhair cat.
