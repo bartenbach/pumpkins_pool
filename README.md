@@ -50,13 +50,13 @@ Some of her hobbies include meeting new people and eating wet food 😃
 
 # Why Pumpkin's Pool?
 ### Clean Energy 🌞 🌲
-We're committed to doing the right thing for the environment, which is why we participate in the [Community Solar program](https://pubdisplay.alsoenergy.com/kiosk/18014398509527082?dashkey=2a5669734965576e4a43513d3d&tag=4246267).
+We're committed to doing the right thing for the environment, which is why we participate in the [Community Solar program](https://pubdisplay.alsoenergy.com/kiosk/18014398509527082?dashkey=2a5669734965576e4a43513d3d&tag=4246267) that powers Pumpkin's Pool!
 
 ### Decentralized 🕸️
 By staking with Pumpkin's Pool, you keep Solana distributed and secure.
 
-### Blazingly Fast 🧨
-We're powered by some of the latest and greatest server technology available.
+### Fast and Reliable 🧨
+We're powered by the latest and greatest enterprise-grade server technology available. Combined with years of DevOps experience and a robust monitoring and reporting configuration, the validator statistics on [StakeWiz](https://stakewiz.com/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx) speak for themselves.
 
 ### Competitive Returns 💰
 So here's the thing: We actually care about our mission. A lot. The planet matters, and together we can make a difference.
@@ -66,6 +66,8 @@ To that end, we're giving **100%** of staked rewards directly to our delegators.
 This is subject to change, however. In 2023, we will reasses our business model and decide on a commission rate that will best accomplish our mission. If 0% still works, so be it. If not, delegators will be notified well in advance of the projected commission rate change, and given ample notice to redelegate if they wish to do so. This will be posted here on the Pumpkin's Pool website, and also in the Pumpkin's Pool Discord (linked above under Community).
 
 Regardless, our promise remains exactly the same: **5%** of all profits go directly to providing clean energy and improving the welfare of animals without homes.
+
+There aren't many other validators you can stake to where you not only receive top APY, but your rewards also actively contribute to making the world a better place.
 
 ### Security 🔒
 #### Physical Security
