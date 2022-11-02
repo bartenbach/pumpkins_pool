@@ -24,9 +24,6 @@ Some of her hobbies include meeting new people and eating wet food 😃
 ### Clean Energy 🌞 🌲
 We're committed to doing the right thing for the environment, which is why we participate in the [Community Solar program](https://pubdisplay.alsoenergy.com/kiosk/18014398509527082?dashkey=2a5669734965576e4a43513d3d&tag=4246267) that powers Pumpkin's Pool!
 
-### Decentralized 🕸️
-By staking with Pumpkin's Pool, you keep Solana distributed and secure.
-
 ### Fast and Reliable 🧨
 We're powered by the latest and greatest enterprise-grade server technology available. Combined with years of DevOps experience and a robust monitoring and reporting configuration, the validator statistics on [StakeWiz](https://stakewiz.com/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx) speak for themselves.
 
