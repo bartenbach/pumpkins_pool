@@ -32,7 +32,7 @@ So here's the thing: We actually care about our mission. A lot. The planet matte
 
 To that end, we're giving **100%** of staked rewards directly to our delegators. There are **no fees**. We operate at **0% commission**.
 
-This is subject to change, however. In 2023, we will reasses our business model and decide on a commission rate that will best accomplish our mission. If 0% still works, so be it. If not, delegators will be notified well in advance of the projected commission rate change, and given ample notice to redelegate if they wish to do so. This will be posted here on the Pumpkin's Pool website, and also in the Pumpkin's Pool Discord (linked above under Community).
+This is subject to change, however. If for whatever reason we decide to (or need to - if we become too large) charge a commission some day, delegators will be notified well in advance of the commission rate change, and given ample notice to redelegate if they wish to do so. This will be posted here on the Pumpkin's Pool website, and also in the Pumpkin's Pool Discord (linked below under Community).
 
 Regardless, our promise remains exactly the same: **5%** of all profits go directly to providing clean energy and improving the welfare of animals without homes.
 
