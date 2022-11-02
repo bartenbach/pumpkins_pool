@@ -13,27 +13,6 @@ If you're not sure how to start staking, you can use one of the following truste
 - [Phantom Wallet (Best mobile option)](https://phantom.app/blog/solana-staking-in-just-3-clicks)
 - [Solana CLI (advanced)](https://docs.solana.com/cli/delegate-stake)
 
-## Resources 🔗
-#### Validator Tracking Apps 📊
-- [Solana Compass](https://solanacompass.com/validators/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
-- [SolanaBeach](https://solanabeach.io/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
-- [Validators.app](https://www.validators.app/validators/PUmpKiNnSVAZ3w4KaFX6jKSjXUNHFShGkXbERo54xjb?locale=en&network=mainnet&order=&refresh=)
-- [StakeWiz](https://stakewiz.com/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
-- [StakeView](https://stakeview.app/)
-
-#### Stake Pools 🏊
-- [Socean](https://www.socean.fi/)
-- [Marinade](https://marinade.finance/)
-- [JPool](https://jpool.one)
-
-#### Get involved in the Community ❤️
-- [Pumpkin's Pool Discord](https://discord.gg/Eqjd36SDGc)
-- [Solana Tech Discord](https://discord.gg/solana)
-- [Solana Commmunity Discord](https://discord.gg/ZynJv59zDu)
-- [Marinade Discord](https://discord.com/invite/6EtUf4Euu6)
-- [Laine Discord](https://discord.gg/uT79hSNBMX)
-- [JPool Discord](https://discord.gg/VzX22eyj8J)
-
 ## Who's Pumpkin? 🐈
 Pumpkin is a very vocal and incredibly friendly 3 year old domestic longhair cat.
 
@@ -78,6 +57,27 @@ The first two keys are required for validator operation and must remain on the V
 No, this is not possible. You remain in full control of your tokens at all times, even if the validator goes offline. This is because the record of your delegated stake lives on the globally distributed blockchain, and not just on any one validator.
 
 You will always be able to reclaim your tokens no matter what.
+
+## Resources 🔗
+#### Validator Tracking Apps 📊
+- [Solana Compass](https://solanacompass.com/validators/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
+- [SolanaBeach](https://solanabeach.io/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
+- [Validators.app](https://www.validators.app/validators/PUmpKiNnSVAZ3w4KaFX6jKSjXUNHFShGkXbERo54xjb?locale=en&network=mainnet&order=&refresh=)
+- [StakeWiz](https://stakewiz.com/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
+- [StakeView](https://stakeview.app/)
+
+#### Stake Pools 🏊
+- [Socean](https://www.socean.fi/)
+- [Marinade](https://marinade.finance/)
+- [JPool](https://jpool.one)
+
+#### Get involved in the Community ❤️
+- [Pumpkin's Pool Discord](https://discord.gg/Eqjd36SDGc)
+- [Solana Tech Discord](https://discord.gg/solana)
+- [Solana Commmunity Discord](https://discord.gg/ZynJv59zDu)
+- [Marinade Discord](https://discord.com/invite/6EtUf4Euu6)
+- [Laine Discord](https://discord.gg/uT79hSNBMX)
+- [JPool Discord](https://discord.gg/VzX22eyj8J)
 
 <a href="https://profiles.eco/pumpkinspool?ref=tm" rel="noopener">
 	<img height="30px" class="eco-trustmark" alt=".eco profile for pumpkinspool.eco" src="https://trust.profiles.eco/pumpkinspool/eco-button.svg?color=%239F1744" style="max-width:4rem">
