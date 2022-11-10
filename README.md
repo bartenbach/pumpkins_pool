@@ -75,6 +75,7 @@ You will always be able to reclaim your tokens no matter what.
 #### Get involved in the Community ❤️
 - [Pumpkin's Pool Discord](https://discord.gg/Eqjd36SDGc)
 - [Solana Commmunity Discord](https://discord.gg/ZynJv59zDu)
+- [Solana Tech Discord](https://discord.com/invite/pquxPsq)
 - [Marinade Discord](https://discord.com/invite/6EtUf4Euu6)
 - [Laine Discord](https://discord.gg/uT79hSNBMX)
 - [JPool Discord](https://discord.gg/VzX22eyj8J)
