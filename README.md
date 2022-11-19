@@ -64,7 +64,6 @@ You will always be able to reclaim your tokens no matter what happens to any val
 - [Validators.app](https://www.validators.app/validators/PUmpKiNnSVAZ3w4KaFX6jKSjXUNHFShGkXbERo54xjb?locale=en&network=mainnet&order=&refresh=)
 - [SolanaBeach](https://solanabeach.io/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
 - [Solana Compass](https://solanacompass.com/validators/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
-- [StakeView](https://stakeview.app/)
 
 #### Stake Pools 🏊
 - [Socean](https://www.socean.fi/)
