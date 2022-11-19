@@ -25,7 +25,7 @@ Validators earn income from two places: commission and block rewards.
 ### Fast and Reliable 🧨
 We're powered by the latest and greatest enterprise-grade server technology available. Combined with years of DevOps experience and a robust monitoring and reporting configuration, the validator statistics on [StakeWiz](https://stakewiz.com/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx) speak for themselves.
 
-### Sign me up!
+## Get Started
 If you're not sure how to start staking, first you are going to need a wallet to hold your Solana. The most popular option is probably Phantom wallet, but you can actually use the Solana CLI tools if you're a power user.
 - [Phantom Wallet (Best mobile option)](https://phantom.app/blog/solana-staking-in-just-3-clicks)
 - [Solana CLI (advanced)](https://docs.solana.com/cli/delegate-stake)
