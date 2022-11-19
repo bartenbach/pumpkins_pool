@@ -60,10 +60,10 @@ You will always be able to reclaim your tokens no matter what happens to any val
 
 ## Resources 🔗
 #### Validator Tracking Apps 📊
-- [Solana Compass](https://solanacompass.com/validators/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
-- [SolanaBeach](https://solanabeach.io/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
-- [Validators.app](https://www.validators.app/validators/PUmpKiNnSVAZ3w4KaFX6jKSjXUNHFShGkXbERo54xjb?locale=en&network=mainnet&order=&refresh=)
 - [StakeWiz](https://stakewiz.com/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
+- [Validators.app](https://www.validators.app/validators/PUmpKiNnSVAZ3w4KaFX6jKSjXUNHFShGkXbERo54xjb?locale=en&network=mainnet&order=&refresh=)
+- [SolanaBeach](https://solanabeach.io/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
+- [Solana Compass](https://solanacompass.com/validators/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
 - [StakeView](https://stakeview.app/)
 
 #### Stake Pools 🏊
@@ -76,8 +76,6 @@ You will always be able to reclaim your tokens no matter what happens to any val
 - [Solana Commmunity Discord](https://discord.gg/ZynJv59zDu)
 - [Solana Tech Discord](https://discord.com/invite/pquxPsq)
 - [Marinade Discord](https://discord.com/invite/6EtUf4Euu6)
-- [Laine Discord](https://discord.gg/uT79hSNBMX)
-- [JPool Discord](https://discord.gg/VzX22eyj8J)
 
 <a href="https://profiles.eco/pumpkinspool?ref=tm" rel="noopener">
 	<img height="30px" class="eco-trustmark" alt=".eco profile for pumpkinspool.eco" src="https://trust.profiles.eco/pumpkinspool/eco-button.svg?color=%239F1744" style="max-width:4rem">
