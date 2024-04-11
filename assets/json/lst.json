@@ -1,6 +1,5 @@
-# off-chain metadata hosted: https://raw.githubusercontent.com/bartenbach/pumpkins_pool/main/assets/json/lst.json
 {
-    "name": "Pumpkin's Pool Staked SOL",
+    "name": "Pumpkin's Staked SOL",
     "symbol": "pumpkinSOL",
     "description": "Pumpkin's Pool Liquid Staking Token",
     "image": "https://raw.githubusercontent.com/bartenbach/pumpkins_pool/main/assets/img/pumpkintoken.png"

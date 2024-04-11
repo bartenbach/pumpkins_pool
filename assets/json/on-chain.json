@@ -1,0 +1,7 @@
+{
+    "name": "pumpkinSOL",
+    "symbol": "pumpkinSOL",
+    "uri": "https://raw.githubusercontent.com/bartenbach/pumpkins_pool/main/assets/json/lst.json",
+    "seller_fee_basis_points": 0,
+    "creators": null
+}
