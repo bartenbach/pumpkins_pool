@@ -1,3 +1,5 @@
+
+
 Stake with Pumpkin's Pool and start earning the top 1% APY on Solana.
 
 <iframe id="staking-kiwi-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="" style="position: static; visibility: visible; width: 472px; height: 302px" title="Staking Kiwi widget" src="https://widget.staking.kiwi/?validator=DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx&theme=light" ></iframe>
