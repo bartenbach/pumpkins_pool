@@ -1,5 +1,3 @@
-
-
 # Pumpkin's Pool 🐈
 Stake with Pumpkin's Pool and start earning the top 1% APY on Solana.
 
@@ -21,20 +19,21 @@ There aren't many other validators (if any) where you not only receive top retur
 We're committed to doing the right thing for the environment, which is why we participate in the [Community Solar program](https://pubdisplay.alsoenergy.com/kiosk/18014398509527082?dashkey=2a5669734965576e4a43513d3d&tag=4246267) that powers Pumpkin's Pool!
 
 ### Staking to a Greater Purpose ❤️
-**5%** of all profits go directly to providing clean energy and improving the welfare of animals without homes.
+**5%** of all profits go directly to providing clean energy and improving the welfare of animals.
 
 *But how can you have profits without charging commission?*
-Validators earn income from two places: commission and block rewards.
+Validators earn income from a variety of places: commission, block rewards, and MEV.
 
 ### Fast and Reliable 🧨
 We're powered by the latest and greatest enterprise-grade server technology available. Combined with years of DevOps experience and a robust monitoring and reporting configuration, the validator statistics on [StakeWiz](https://stakewiz.com/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx) speak for themselves.
 
 ## Get Started
 If you're not sure how to start staking, first you are going to need a wallet to hold your Solana. The most popular option is probably Phantom wallet, but you can actually use the Solana CLI tools if you're a power user.
-- [Phantom Wallet (Best mobile option)](https://phantom.app/blog/solana-staking-in-just-3-clicks)
+- [SolFlare (Best in our opinion)](https://solflare.com/)
+- [Phantom Wallet](https://phantom.app/blog/solana-staking-in-just-3-clicks)
 - [Solana CLI (advanced)](https://docs.solana.com/cli/delegate-stake)
 
-Once you have your wallet set up and you've purchased some Solana, you can use any of these trusted resources to stake your Solana and start earning! If you're not sure, try StakeWiz.
+Once you have your wallet set up and you've purchased some Solana, you can use any of these trusted resources to stake your Solana and start earning!
 - [StakeWiz (Link to stake)](https://stakewiz.com/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
 - [Validators.app (Link on page to delegate)](https://www.validators.app/validators/PUmpKiNnSVAZ3w4KaFX6jKSjXUNHFShGkXbERo54xjb?locale=en&network=mainnet&order=&refresh=)
 - [SolanaBeach (Click the 'Stake' button)](https://solanabeach.io/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
@@ -69,8 +68,9 @@ You will always be able to reclaim your tokens no matter what happens to any val
 - [SolanaBeach](https://solanabeach.io/validator/DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx)
 
 #### Stake Pools 🏊
-- [Socean](https://www.socean.fi/)
+- [Jito](https://www.jito.network/)
 - [Marinade](https://marinade.finance/)
+- [BlazeStake](https://stake.solblaze.org/)
 - [JPool](https://jpool.one)
 
 #### Get involved in the Community ❤️
